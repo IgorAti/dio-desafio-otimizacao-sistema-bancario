@@ -17,7 +17,7 @@
 Otimizar sistema bancário com inserção de funcões em Python.
 
 ### Desafio
-Otimizar sistema bancário já criado em , reescrevendo o código por meio de funções e criando novas funcionalidades para o sistema de criação de nova conta, listagem de contas e criação de usuário.
+Otimizar sistema bancário já criado em repositório [dio-desafio-sistema-bancario](https://github.com/IgorAti/dio-desafio-sistema-bancario), reescrevendo o código por meio de funções e criando novas funcionalidades para o sistema, como criação de nova conta, listagem de contas e criação de usuário.
 
 
 ## IDE utilizada:
